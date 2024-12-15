@@ -1,0 +1,13 @@
+[2024-12-15 20:44:54] - [ERROR] Unhandled Rejection at: [object Promise]. Reason: TypeError: logerror is not a function
+[2024-12-15 21:09:27] - [ERROR] Uncaught Exception: SQLITE_ERROR: near ")": syntax error
+[2024-12-15 21:09:27] - [ERROR] Error: SQLITE_ERROR: near ")": syntax error
+[2024-12-15 21:09:34] - [ERROR] Uncaught Exception: SQLITE_ERROR: near ")": syntax error
+[2024-12-15 21:09:34] - [ERROR] Error: SQLITE_ERROR: near ")": syntax error
+[2024-12-15 21:11:38] - [ERROR] Uncaught Exception: logerror is not a function
+[2024-12-15 21:11:38] - [ERROR] TypeError: logerror is not a function
+    at C:\Users\kamil\Desktop\Sciqus_project\backend\routes\auth.js:41:13
+    at Statement.errBack (C:\Users\kamil\Desktop\Sciqus_project\backend\node_modules\sqlite3\lib\sqlite3.js:15:21)
+[2024-12-15 21:12:13] - [ERROR] Uncaught Exception: logerror is not a function
+[2024-12-15 21:12:13] - [ERROR] TypeError: logerror is not a function
+    at C:\Users\kamil\Desktop\Sciqus_project\backend\routes\auth.js:41:13
+    at Statement.errBack (C:\Users\kamil\Desktop\Sciqus_project\backend\node_modules\sqlite3\lib\sqlite3.js:15:21)
